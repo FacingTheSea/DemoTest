@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/GitSpace.iml" filepath="$PROJECT_DIR$/.idea/GitSpace.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hapDemo/hapDemo.iml" filepath="$PROJECT_DIR$/hapDemo/hapDemo.iml" />
-    </modules>
-  </component>
-</project>
